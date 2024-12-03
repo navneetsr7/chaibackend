@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon src/index.js"
+    "start": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
@@ -17,6 +17,7 @@
   "author": "Navneet Srivastav",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.1"
   }
 }
